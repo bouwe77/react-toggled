@@ -1,0 +1,12 @@
+{
+  "name": "react-toggled-example",
+  "version": "1.0.0",
+  "description": "This is a basic example of react-toggled ⚛️",
+  "keywords": ["react-toggled:example"],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-toggled": "1.2.7"
+  }
+}
